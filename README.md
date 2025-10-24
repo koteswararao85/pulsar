@@ -1,3 +1,6 @@
+"addFilePrcsTrackCorrId's" @Transactional requirement is incompatible with the one for this method
+ "handleDuplicateFilePrcsTrack's" @Transactional requirement is incompatible with the one for this method.
+
 # Pulsar Consumer Demo
 
 This is a Spring Boot application that demonstrates how to consume messages from Apache Pulsar topics.
