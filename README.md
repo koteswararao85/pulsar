@@ -1,3 +1,27 @@
+Make the enclosing method "static" or remove this set.
+Define a constant instead of duplicating this literal "ADF URL : {}" 4 times.
+
+
+Make the enclosing method "static" or remove this set.
+
+Refactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.
+
+Define a constant instead of duplicating this literal "Getting Token from Auth provider" 6 times.
+Adaptability
+Maintainability
+
+4
+
+
+Define a constant instead of duplicating this literal "Oauth Token is empty" 6 times.
+
+Define a constant instead of duplicating this literal "Oauth Token retrieved" 6 times.
+Define a constant instead of duplicating this literal "Authorization" 6 times.
+
+Define a constant instead of duplicating this literal "Bearer " 6 times.
+Refactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.
+
+
 "addFilePrcsTrackCorrId's" @Transactional requirement is incompatible with the one for this method
  "handleDuplicateFilePrcsTrack's" @Transactional requirement is incompatible with the one for this method.
 
