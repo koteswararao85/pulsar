@@ -1,3 +1,25 @@
+
+Call transactional methods via an injected dependency instead of directly via 'this'.
+
+Call transactional methods via an injected dependency instead of directly via 'this'.
+
+
+Call transactional methods via an injected dependency instead of directly via 'this'.
+Call transactional methods via an injected dependency instead of directly via 'this'.
+Call transactional methods via an injected dependency instead of directly via 'this'.
+
+
+ return handleDuplicateFilePrcsTrack(filePrcsTrack);
+       return attemptSave(filePrcsTrack);
+
+             FilePrcsTrackUpdate trackUpdate = updateFilePrcsTrack(filePrcsTrackUpdate);
+
+            addFilePrcsTrackCorrId(filePrcsTrackCorrId);
+            ::filePrcsToFilePrcsTrack).collect(Collectors.toList());
+        Collection<FilePrcsTrack> resultsFilePrcsTracks = batchInsertFilePrcsTrack(filePrcsTracks);
+        Call transactional methods via an injected dependency instead of directly via 'this'.
+
+
 Make the enclosing method "static" or remove this set.
 Define a constant instead of duplicating this literal "ADF URL : {}" 4 times.
 
