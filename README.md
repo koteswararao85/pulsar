@@ -1,4 +1,32 @@
 
+ADFTriggerService
+Make the enclosing method "static" or remove this set.
+
+
+src/.../service/Scheduler.java
+
+Make the enclosing method "static" or remove this set.
+
+
+Refactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.
+
+
+src/.../service/TrackerApi.java
+
+Define a constant instead of duplicating this literal "Getting Token from Auth provider" 6 times.
+
+Define a constant instead of duplicating this literal "Oauth Token is empty" 6 times.
+Define a constant instead of duplicating this literal "Oauth Token retrieved" 6 times.
+
+Define a constant instead of duplicating this literal "Authorization" 6 times.
+Define a constant instead of duplicating this literal "Bearer " 6 times.
+
+
+src/.../magnusopsieventconsumer/util/ClassMapper.java
+
+Make the enclosing method "static" or remove this set.
+Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.
+
 Call transactional methods via an injected dependency instead of directly via 'this'.
 
 Call transactional methods via an injected dependency instead of directly via 'this'.
